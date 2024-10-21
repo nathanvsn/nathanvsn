@@ -6,13 +6,13 @@ Sou um programador full stack especializado em **Python** e tecnologias relacion
 
 ## 🚀 Minhas principais habilidades:
 
-### IDEs:
+#### IDEs:
 <div style="display: inline_block"><br>
     <img align="center" alt="VS-CODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white">
     <img align="center" alt="PYCHARM" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat-square&logo=PyCharm&logoColor=white">
 </div>
 
-### Backend:
+#### Backend:
 <div style="display: inline_block"><br>
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
     <img align="center" alt="DJANGO" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
@@ -21,13 +21,12 @@ Sou um programador full stack especializado em **Python** e tecnologias relacion
     <img align="center" alt="NUMPY" src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white">
 </div>
 
-### PHP:
 <div style="display: inline_block"><br>
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
     <img align="center" alt="LARAVEL" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
 </div>
 
-### Frontend:
+#### Frontend:
 <div style="display: inline_block"><br>
     <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="IONIC" src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white">
@@ -36,7 +35,7 @@ Sou um programador full stack especializado em **Python** e tecnologias relacion
     <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
 </div>
 
-### Ferramentas e Tecnologias:
+#### Ferramentas e Tecnologias:
 <div style="display: inline_block"><br>
     <img align="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
     <img align="center" alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
@@ -45,7 +44,7 @@ Sou um programador full stack especializado em **Python** e tecnologias relacion
     <img align="center" alt="DOCKER" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 </div>
 
-### Banco de Dados:
+#### Banco de Dados:
 <div style="display: inline_block"><br>
     <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
     <img align="center" alt="POSTGRES" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
