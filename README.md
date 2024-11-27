@@ -1,6 +1,6 @@
 # Olá, eu sou Nathan Nobrega! 👋
 
-Sou um programador full stack especializado em **Python** e tecnologias relacionadas a **Django**, **Selenium**, **Pandas** e **Numpy**. Tenho experiência no desenvolvimento de aplicações web e automações de tarefas, principalmente para consolidação de informações de diferentes instituições financeiras, além de atuar com **JavaScript** no front-end, utilizando **React**, e com **PHP** no back-end, com **Laravel**. Atualmente trabalho no setor Financeiro de Multi Family Office, mas já trabalhei no setor de AssetManagement com extração de dados, criação de BIs e fluxos de automatizações complexos.
+Sou um Desenvolvedor especializado em **Python** e tecnologias relacionadas a **Django**, **Selenium**, **Pandas** e **Numpy**. Tenho experiência no desenvolvimento de aplicações web e automações de tarefas, principalmente para consolidação de informações de diferentes instituições financeiras, além de atuar com um pouco com **JavaScript** no front-end, utilizando **React**, com **Laravel**. Atualmente trabalho no setor Financeiro de Multi Family Office, mas já trabalhei no setor de AssetManagement com extração de dados, criação de BIs e fluxos de automatizações complexos.
 
 ---
 
@@ -72,7 +72,7 @@ Sou um programador full stack especializado em **Python** e tecnologias relacion
 - Mais sobre desenvolvimento **Full Stack** com React, Django Rest Framework, e Laravel
 - **Integração contínua** e **Testes automatizados** com GitLab CI/CD
 - Scraping de dados e consolidação
-
+- Criação de agents com Langchain e LangGraph
 ---
 
 ## 🎯 Metas para 2025:
