@@ -1,6 +1,6 @@
 # Olá, eu sou Nathan Nobrega! 👋
 
-Sou um Desenvolvedor especializado em **Python** e tecnologias relacionadas a **Django**, **Selenium**, **Pandas** e **Numpy**. Tenho experiência no desenvolvimento de aplicações web e automações de tarefas, principalmente para consolidação de informações de diferentes instituições financeiras, além de atuar com um pouco com **JavaScript** no front-end, utilizando **React**, com **Laravel**. Atualmente trabalho no setor Financeiro de Multi Family Office, mas já trabalhei no setor de AssetManagement com extração de dados, criação de BIs e fluxos de automatizações complexos.
+Sou um Desenvolvedor Full-stack especializado em **Python** **Nodejs** **Javascript**. Tenho experiência no desenvolvimento de aplicações web e automações de tarefas, principalmente para consolidação de informações de diferentes instituições financeiras. Para o front, domino **JavaScript** e **Typescript**, e dou uma aventurada com **Laravel**. Atualmente trabalho no setor de Markting como FullStack, mas já trabalhei no setor de AssetManagement com extração de dados, criação de BIs e fluxos de automatizações complexos e consolidações em massa de Multi Family Office.
 
 ---
 
@@ -56,7 +56,7 @@ Sou um Desenvolvedor especializado em **Python** e tecnologias relacionadas a **
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nathan%20Nobrega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathan-nobrega)](https://www.linkedin.com/in/nathan-n%C3%B3brega/)
 [![Gmail Badge](https://img.shields.io/badge/-nathan.nobrega%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathan.nobrega@gmail.com)](mailto:nathanitau@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5535984771051)
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5534987215924)
 
 ---
 
